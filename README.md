@@ -1,1 +1,1 @@
-the file contains the process of plastuic to bricks ,bricks calculated for kg plasdtic.customer can order or cancle through the app,delivery status,payment process,payment option,uses of plastic bricks,
+the file contains the process of plastic to bricks ,bricks calculated for kg plasdtic.customer can order or cancle through the app,delivery status,payment process,payment option,uses of plastic bricks,
